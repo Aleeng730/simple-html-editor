@@ -1,0 +1,4 @@
+C:\Users\aling\source\repos\HTMLEditor\HTMLEditor\x64\Debug\HTMLEditor.vcxproj.AssemblyReference.cache
+C:\Users\aling\source\repos\HTMLEditor\HTMLEditor\x64\Debug\HTMLEditor.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aling\source\repos\HTMLEditor\HTMLEditor\x64\Debug\HTMLEditor.MyForm.resources
+C:\Users\aling\source\repos\HTMLEditor\HTMLEditor\x64\Debug\HTMLEditor.vcxproj.GenerateResource.cache
